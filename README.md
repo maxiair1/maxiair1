@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Всем привет, меня зовут Максим 👋
+Взбираюсь на вершину фронтэнд разработки 🧗‍♂️
 <!--
 **maxiair1/maxiair1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🚀 Реактивно изучаю фреймфорк React
