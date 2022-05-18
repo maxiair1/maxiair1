@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 - 🚴 Ну и конечно не забываем гонять на великах 
 
 ### 🛠️ Мой стек:
-![react](https://user-images.githubusercontent.com/59952488/169035244-ba874d72-ebde-4c75-818b-91da63add0ab.svg)
 <img src="https://user-images.githubusercontent.com/59952488/169035244-ba874d72-ebde-4c75-818b-91da63add0ab.svg" alt="альтернативный текст">
