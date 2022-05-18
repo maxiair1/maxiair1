@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 ### 🛠️ Мой стек:
 <img src="https://user-images.githubusercontent.com/59952488/169035244-ba874d72-ebde-4c75-818b-91da63add0ab.svg" alt="альтернативный текст">
+<img src="[путь к файлу](https://www.flaticon.com/free-icon/physics_1126012)" alt="альтернативный текст">
