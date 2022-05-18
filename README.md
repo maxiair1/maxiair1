@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 🚴 Ну и конечно не забываем гонять на великах 
 
 ### 🛠️ Мой стек:
-<img src="https://user-images.githubusercontent.com/59952488/169035244-ba874d72-ebde-4c75-818b-91da63add0ab.svg" alt="альтернативный текст" height="30" style="color:#61DAFB">
+<img src="https://user-images.githubusercontent.com/59952488/169035244-ba874d72-ebde-4c75-818b-91da63add0ab.svg" alt="альтернативный текст" height="30" style="color:blue">
 <img src="[путь к файлу](https://www.flaticon.com/free-icon/physics_1126012)" alt="альтернативный текст">
