@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 🚴 Ну и конечно не забываем гонять на великах 
 
 ### 🛠️ Мой стек:
-<img src="https://user-images.githubusercontent.com/59952488/169035244-ba874d72-ebde-4c75-818b-91da63add0ab.svg" alt="альтернативный текст" height="30" style="fill:blue">
-<img src="https://user-images.githubusercontent.com/59952488/169040402-ff1addf8-26d4-4422-8ae7-668e245a0317.png" alt="альтернативный текст" height="30" style="fill:blue">
+<img src="https://user-images.githubusercontent.com/59952488/169035244-ba874d72-ebde-4c75-818b-91da63add0ab.svg" alt="альтернативный текст" height="30" style="fill:blue"><img src="https://user-images.githubusercontent.com/59952488/169040402-ff1addf8-26d4-4422-8ae7-668e245a0317.png" alt="альтернативный текст" height="80" style="fill:blue">
 HTML5 CSS3 JavaScript WebPack GIT Figma
 
